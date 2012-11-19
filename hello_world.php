@@ -21,5 +21,6 @@
 
  echo 'kuro';
 
+echo 'from company computer (^^)';
 
 ?>
